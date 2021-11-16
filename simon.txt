@@ -1,3 +1,32 @@
+<<<<<<< HEAD
 simon modified
 
 asdfasasdf sdf asdfas df asdf sadfasd fasd fdfsafds dfs
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+simon modified 
+
+asdfasasdf sdf asdfas df asdf sadfasd fasd fdfsafds dfs 
+<<<<<<< HEAD
+=======
+simon
+>>>>>>> be00a0d (add simons file)
+=======
+simon modified 
+>>>>>>> 0b087a2 (modify simons file)
+=======
+>>>>>>> 302b1a6 (added text)
+=======
+simon modified
+
+asdfasasdf sdf asdfas df asdf sadfasd fasd fdfsafds dfs
+>>>>>>> 67f22ac (Trim whitespace)
+=======
+simon modified
+
+asdfasasdf sdf asdfas df asdf sadfasd fasd fdfsafds dfs
+>>>>>>> a96459c (Trim whitespace)
+>>>>>>> 2d79c08 (House)

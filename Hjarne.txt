@@ -1,7 +1,38 @@
 hello world
+<<<<<<< HEAD
 2
 test
 test
 test
 test
 test
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+2
+<<<<<<< HEAD
+=======
+>>>>>>> eb2b368 (added Hjarne)
+=======
+2
+>>>>>>> ab4271e (2)
+=======
+test
+<<<<<<< HEAD
+>>>>>>> c267e76 (test)
+=======
+test
+<<<<<<< HEAD
+>>>>>>> 9a709e2 (test)
+=======
+test
+<<<<<<< HEAD
+>>>>>>> 11aefec (test)
+=======
+test
+<<<<<<< HEAD
+>>>>>>> 77962be (test)
+=======
+test
+>>>>>>> 66b6e5a (test)
+>>>>>>> 2d79c08 (House)

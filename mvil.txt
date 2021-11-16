@@ -1,18 +1,5 @@
 # MVIL Notes
 stuff
-<<<<<<< HEAD
 Moar stuff
 Important stuff
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-Moar stuff
-Important stuff
-=======
->>>>>>> 196a42f (Rename .md -> .txt)
-=======
-Moar stuff
-Important stuff
->>>>>>> f31dec7 (Add moar stuff)
->>>>>>> 2d79c08 (House)
 
